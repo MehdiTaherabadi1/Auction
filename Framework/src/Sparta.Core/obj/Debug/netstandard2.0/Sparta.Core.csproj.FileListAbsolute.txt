@@ -1,0 +1,36 @@
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\Sparta.Core\bin\Debug\netstandard2.0\Sparta.Core.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\Sparta.Core\bin\Debug\netstandard2.0\Sparta.Core.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\Sparta.Core\bin\Debug\netstandard2.0\Sparta.Core.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Core\bin\Debug\netstandard2.0\Sparta.Core.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Core\bin\Debug\netstandard2.0\Sparta.Core.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Core\bin\Debug\netstandard2.0\Sparta.Core.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Core\bin\Debug\netstandard2.0\Sparta.Core.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Core\bin\Debug\netstandard2.0\Sparta.Core.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Core\bin\Debug\netstandard2.0\Sparta.Core.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.pdb
+D:\Project\AuctionTest\Framework\src\Sparta.Core\bin\Debug\netstandard2.0\Sparta.Core.deps.json
+D:\Project\AuctionTest\Framework\src\Sparta.Core\bin\Debug\netstandard2.0\Sparta.Core.dll
+D:\Project\AuctionTest\Framework\src\Sparta.Core\bin\Debug\netstandard2.0\Sparta.Core.pdb
+D:\Project\AuctionTest\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.AssemblyInfo.cs
+D:\Project\AuctionTest\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.csproj.CoreCompileInputs.cache
+D:\Project\AuctionTest\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.dll
+D:\Project\AuctionTest\Framework\src\Sparta.Core\obj\Debug\netstandard2.0\Sparta.Core.pdb

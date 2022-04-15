@@ -1,0 +1,65 @@
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.runtimeconfig.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.runtimeconfig.dev.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.csproj.CopyComplete
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.runtimeconfig.json
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.runtimeconfig.dev.json
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.csproj.CopyComplete
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.pdb
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.deps.json
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.runtimeconfig.json
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.runtimeconfig.dev.json
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.dll
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.pdb
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.dll
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.dll
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.dll
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.pdb
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.pdb
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.pdb
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.AssemblyInfo.cs
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.csproj.CoreCompileInputs.cache
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.csproj.CopyComplete
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.dll
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.pdb
+D:\Project\AuctionTest\AuctionManagement\tests\AuctionManagement.Persistence.ES.Tests.Integration\obj\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\IdentityAccess\src\IdentityAccess.Domain\bin\Debug\netcoreapp2.1\IdentityAccess.Domain.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\IdentityAccess\src\IdentityAccess.Domain\bin\Debug\netcoreapp2.1\IdentityAccess.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\IdentityAccess\src\IdentityAccess.Domain\bin\Debug\netcoreapp2.1\IdentityAccess.Domain.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\IdentityAccess\src\IdentityAccess.Domain\obj\Debug\netcoreapp2.1\IdentityAccess.Domain.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\IdentityAccess\src\IdentityAccess.Domain\obj\Debug\netcoreapp2.1\IdentityAccess.Domain.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\IdentityAccess\src\IdentityAccess.Domain\obj\Debug\netcoreapp2.1\IdentityAccess.Domain.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\IdentityAccess\src\IdentityAccess.Domain\obj\Debug\netcoreapp2.1\IdentityAccess.Domain.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\IdentityAccess\src\IdentityAccess.Domain\obj\Debug\netcoreapp2.1\IdentityAccess.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\IdentityAccess\src\IdentityAccess.Domain\obj\Debug\netcoreapp2.1\IdentityAccess.Domain.pdb

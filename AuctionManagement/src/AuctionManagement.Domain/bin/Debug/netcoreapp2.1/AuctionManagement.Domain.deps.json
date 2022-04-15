@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "AuctionManagement.Domain/1.0.0": {
+        "dependencies": {
+          "AuctionManagement.Domain.Contracts": "1.0.0",
+          "Sparta.Domain": "1.0.1"
+        },
+        "runtime": {
+          "AuctionManagement.Domain.dll": {}
+        }
+      },
+      "Sparta.Core/1.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Sparta.Core.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "Sparta.Domain/1.0.1": {
+        "dependencies": {
+          "Sparta.Core": "1.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Sparta.Domain.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "AuctionManagement.Domain.Contracts/1.0.0": {
+        "dependencies": {
+          "Sparta.Core": "1.0.1"
+        },
+        "runtime": {
+          "AuctionManagement.Domain.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AuctionManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sparta.Core/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xtg2HMOL+gVkhmGlUmx7wvpLZ02coWO2NMwxCnQ2aa6kmJWibmNpJ6XSIUh1XZLZEmDCzQPh26tzYSwhYNJLKQ==",
+      "path": "sparta.core/1.0.1",
+      "hashPath": "sparta.core.1.0.1.nupkg.sha512"
+    },
+    "Sparta.Domain/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/eCx3Vv2CqjHQ7uK/E3XHAl44dIj80oHEPbHxWfBeKUeSQ0FqH6LYxOyWTTo/TCPRmPiBC0kzPy13whNiJzFkw==",
+      "path": "sparta.domain/1.0.1",
+      "hashPath": "sparta.domain.1.0.1.nupkg.sha512"
+    },
+    "AuctionManagement.Domain.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

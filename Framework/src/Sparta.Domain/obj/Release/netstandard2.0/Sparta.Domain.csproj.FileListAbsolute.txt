@@ -1,0 +1,37 @@
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Domain\bin\Release\netstandard2.0\Sparta.Domain.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Domain\bin\Release\netstandard2.0\Sparta.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Domain\bin\Release\netstandard2.0\Sparta.Domain.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Domain\bin\Release\netstandard2.0\Sparta.Core.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Domain\bin\Release\netstandard2.0\Sparta.Core.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.csproj.CopyComplete
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Domain\bin\Release\netstandard2.0\Sparta.Domain.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Domain\bin\Release\netstandard2.0\Sparta.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Domain\bin\Release\netstandard2.0\Sparta.Domain.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Domain\bin\Release\netstandard2.0\Sparta.Core.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Domain\bin\Release\netstandard2.0\Sparta.Core.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.csproj.CopyComplete
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.pdb
+D:\Project\AuctionTest\Framework\src\Sparta.Domain\bin\Release\netstandard2.0\Sparta.Domain.deps.json
+D:\Project\AuctionTest\Framework\src\Sparta.Domain\bin\Release\netstandard2.0\Sparta.Domain.dll
+D:\Project\AuctionTest\Framework\src\Sparta.Domain\bin\Release\netstandard2.0\Sparta.Domain.pdb
+D:\Project\AuctionTest\Framework\src\Sparta.Domain\bin\Release\netstandard2.0\Sparta.Core.dll
+D:\Project\AuctionTest\Framework\src\Sparta.Domain\bin\Release\netstandard2.0\Sparta.Core.pdb
+D:\Project\AuctionTest\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.AssemblyInfo.cs
+D:\Project\AuctionTest\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.csproj.CoreCompileInputs.cache
+D:\Project\AuctionTest\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.csproj.CopyComplete
+D:\Project\AuctionTest\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.dll
+D:\Project\AuctionTest\Framework\src\Sparta.Domain\obj\Release\netstandard2.0\Sparta.Domain.pdb

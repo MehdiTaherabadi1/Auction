@@ -1,0 +1,46 @@
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\src\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\src\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\src\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\src\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\src\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.csproj.CopyComplete
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.csproj.CopyComplete
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.pdb
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.deps.json
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.dll
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.pdb
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.dll
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.pdb
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.AssemblyInfo.cs
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.csproj.CopyComplete
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.dll
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain\obj\Debug\netcoreapp2.1\AuctionManagement.Domain.pdb

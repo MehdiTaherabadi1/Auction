@@ -1,0 +1,19 @@
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain.Contracts\bin\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain.Contracts\bin\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain.Contracts\bin\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain.Contracts\obj\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain.Contracts\obj\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain.Contracts\obj\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain.Contracts\obj\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain.Contracts\obj\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\src\AuctionManagement.Domain.Contracts\obj\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.csprojAssemblyReference.cache
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain.Contracts\bin\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.deps.json
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain.Contracts\bin\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.dll
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain.Contracts\bin\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.pdb
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain.Contracts\obj\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain.Contracts\obj\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain.Contracts\obj\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain.Contracts\obj\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.AssemblyInfo.cs
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain.Contracts\obj\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.csproj.CoreCompileInputs.cache
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain.Contracts\obj\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.dll
+D:\Project\AuctionTest\AuctionManagement\src\AuctionManagement.Domain.Contracts\obj\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.pdb

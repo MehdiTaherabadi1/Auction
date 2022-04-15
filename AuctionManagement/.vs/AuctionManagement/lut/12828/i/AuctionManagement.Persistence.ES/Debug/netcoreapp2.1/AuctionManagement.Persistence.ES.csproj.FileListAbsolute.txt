@@ -1,0 +1,7 @@
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\.vs\AuctionManagement\lut\0\b\AuctionManagement.Persistence.ES\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\.vs\AuctionManagement\lut\0\b\AuctionManagement.Persistence.ES\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\.vs\AuctionManagement\lut\0\i\AuctionManagement.Persistence.ES\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\.vs\AuctionManagement\lut\0\i\AuctionManagement.Persistence.ES\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\.vs\AuctionManagement\lut\0\i\AuctionManagement.Persistence.ES\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\.vs\AuctionManagement\lut\0\i\AuctionManagement.Persistence.ES\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.csproj.CopyComplete
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\.vs\AuctionManagement\lut\0\i\AuctionManagement.Persistence.ES\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.dll

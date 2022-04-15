@@ -1,0 +1,53 @@
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\ServiceHost.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\ServiceHost.runtimeconfig.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\ServiceHost.runtimeconfig.dev.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\ServiceHost.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.RazorAssemblyInfo.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.RazorAssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.RazorTargetAssemblyInfo.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\ServiceHost.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\AuctionManagement.Gateways.RestApi.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\AuctionManagement.Gateways.RestApi.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.csproj.CopyComplete
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\ServiceHost.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\ServiceHost.runtimeconfig.json
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\ServiceHost.runtimeconfig.dev.json
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\ServiceHost.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\ServiceHost.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\AuctionManagement.Gateways.RestApi.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\AuctionManagement.Gateways.RestApi.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.RazorAssemblyInfo.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.RazorAssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.RazorTargetAssemblyInfo.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.csproj.CopyComplete
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.pdb
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\ServiceHost.deps.json
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\ServiceHost.runtimeconfig.json
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\ServiceHost.runtimeconfig.dev.json
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\ServiceHost.dll
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\ServiceHost.pdb
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\AuctionManagement.Gateways.RestApi.dll
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\bin\Debug\netcoreapp2.1\AuctionManagement.Gateways.RestApi.pdb
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.AssemblyInfo.cs
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.csproj.CoreCompileInputs.cache
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.RazorAssemblyInfo.cache
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.RazorAssemblyInfo.cs
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.RazorTargetAssemblyInfo.cache
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.csproj.CopyComplete
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.dll
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.pdb
+D:\Project\AuctionTest\AuctionManagement\ServiceHost\obj\Debug\netcoreapp2.1\ServiceHost.genruntimeconfig.cache

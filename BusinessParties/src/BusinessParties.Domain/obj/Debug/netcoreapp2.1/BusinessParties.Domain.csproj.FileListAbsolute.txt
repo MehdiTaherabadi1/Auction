@@ -1,0 +1,9 @@
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\PartyManagement\BusinessParties.Domain\bin\Debug\netcoreapp2.1\BusinessParties.Domain.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\PartyManagement\BusinessParties.Domain\bin\Debug\netcoreapp2.1\BusinessParties.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\PartyManagement\BusinessParties.Domain\bin\Debug\netcoreapp2.1\BusinessParties.Domain.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\PartyManagement\BusinessParties.Domain\obj\Debug\netcoreapp2.1\BusinessParties.Domain.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\PartyManagement\BusinessParties.Domain\obj\Debug\netcoreapp2.1\BusinessParties.Domain.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\PartyManagement\BusinessParties.Domain\obj\Debug\netcoreapp2.1\BusinessParties.Domain.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\PartyManagement\BusinessParties.Domain\obj\Debug\netcoreapp2.1\BusinessParties.Domain.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\PartyManagement\BusinessParties.Domain\obj\Debug\netcoreapp2.1\BusinessParties.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\PartyManagement\BusinessParties.Domain\obj\Debug\netcoreapp2.1\BusinessParties.Domain.pdb

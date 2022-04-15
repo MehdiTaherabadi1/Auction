@@ -1,0 +1,31 @@
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\Syncs.QueryModelSync\bin\Debug\netcoreapp2.1\Syncs.QueryModelSync.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\Syncs.QueryModelSync\bin\Debug\netcoreapp2.1\Syncs.QueryModelSync.runtimeconfig.json
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\Syncs.QueryModelSync\bin\Debug\netcoreapp2.1\Syncs.QueryModelSync.runtimeconfig.dev.json
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\Syncs.QueryModelSync\bin\Debug\netcoreapp2.1\Syncs.QueryModelSync.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\Syncs.QueryModelSync\bin\Debug\netcoreapp2.1\Syncs.QueryModelSync.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\Syncs.QueryModelSync\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\Syncs.QueryModelSync\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.csproj.CopyComplete
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\AuctionManagement\Syncs.QueryModelSync\bin\Debug\netcoreapp2.1\Sparta.Domain.dll
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.AssemblyInfo.cs
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.csproj.CoreCompileInputs.cache
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.dll
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.pdb
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\bin\Debug\netcoreapp2.1\Syncs.QueryModelSync.deps.json
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\bin\Debug\netcoreapp2.1\Syncs.QueryModelSync.runtimeconfig.json
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\bin\Debug\netcoreapp2.1\Syncs.QueryModelSync.runtimeconfig.dev.json
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\bin\Debug\netcoreapp2.1\Syncs.QueryModelSync.dll
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\bin\Debug\netcoreapp2.1\Syncs.QueryModelSync.pdb
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.dll
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\bin\Debug\netcoreapp2.1\AuctionManagement.Domain.Contracts.pdb
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.csproj.CopyComplete
+D:\Project\AuctionTest\AuctionManagement\Syncs.QueryModelSync\obj\Debug\netcoreapp2.1\Syncs.QueryModelSync.genruntimeconfig.cache

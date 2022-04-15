@@ -1,0 +1,43 @@
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Persistence.ES.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Persistence.ES.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Persistence.ES.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Core.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Domain.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Core.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.csproj.CopyComplete
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Persistence.ES.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Persistence.ES.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Persistence.ES.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Core.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Domain.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Core.pdb
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.csprojAssemblyReference.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.csproj.CopyComplete
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.dll
+C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.pdb
+D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Persistence.ES.deps.json
+D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Persistence.ES.dll
+D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Persistence.ES.pdb
+D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Core.dll
+D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Domain.dll
+D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Domain.pdb
+D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Core.pdb
+D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.AssemblyInfo.cs
+D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.csproj.CoreCompileInputs.cache
+D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.csproj.CopyComplete
+D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.dll
+D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\obj\Release\netstandard2.0\Sparta.Persistence.ES.pdb

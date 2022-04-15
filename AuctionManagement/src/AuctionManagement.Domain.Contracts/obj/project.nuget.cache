@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o4GIdacE1UhFIjDv+O4wX7j3XQMZmzRKSp7vJMA/t0RC/ye1iue7+VdsF3Cmxkrhko13vN7Xqn/2IrDjnZIwHg==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\AuctionTest\\AuctionManagement\\src\\AuctionManagement.Domain.Contracts\\AuctionManagement.Domain.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\sparta.core\\1.0.1\\sparta.core.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

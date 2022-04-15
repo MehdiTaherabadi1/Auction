@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Sparta.Persistence.ES</id>
+    <version>1.0.1</version>
+    <authors>Sparta.Persistence.ES</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Sparta.Domain" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="eventstore.clientapi.netcore" version="4.1.0.23" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Project\AuctionTest\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Persistence.ES.dll" target="lib\netstandard2.0\Sparta.Persistence.ES.dll" />
+  </files>
+</package>

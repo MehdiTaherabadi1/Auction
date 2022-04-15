@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Sparta.Persistence.ES</id>
+    <version>1.0.0</version>
+    <authors>Sparta.Persistence.ES</authors>
+    <owners>Sparta.Persistence.ES</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Sparta.Domain" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="eventstore.clientapi.netcore" version="4.1.0.23" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Courses\Craftmanship - GodOfWar\Session 21\Framework\src\Sparta.Persistence.ES\bin\Release\netstandard2.0\Sparta.Persistence.ES.dll" target="lib\netstandard2.0\Sparta.Persistence.ES.dll" />
+  </files>
+</package>

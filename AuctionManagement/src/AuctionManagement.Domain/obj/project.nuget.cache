@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "bS2XOIy+wk83WtQxDaH1UEal/0ory+qScS6ijUnPwTtX6IEs12upVs7UqGnqR37W9AVATVhuhkuoBZKUTuvPjA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\AuctionTest\\AuctionManagement\\src\\AuctionManagement.Domain\\AuctionManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\sparta.core\\1.0.1\\sparta.core.1.0.1.nupkg.sha512",
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\sparta.domain\\1.0.1\\sparta.domain.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

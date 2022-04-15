@@ -1,0 +1,8 @@
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\.vs\AuctionManagement\lut\0\b\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.deps.json
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\.vs\AuctionManagement\lut\0\b\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\.vs\AuctionManagement\lut\0\i\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\.vs\AuctionManagement\lut\0\i\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.AssemblyInfoInputs.cache
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\.vs\AuctionManagement\lut\0\i\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.AssemblyInfo.cs
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\.vs\AuctionManagement\lut\0\i\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.csproj.CopyComplete
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\.vs\AuctionManagement\lut\0\i\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.dll
+C:\Courses\Craftmanship - GodOfWar\Session 20 -B\AuctionManagement\.vs\AuctionManagement\lut\0\i\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.csprojAssemblyReference.cache
