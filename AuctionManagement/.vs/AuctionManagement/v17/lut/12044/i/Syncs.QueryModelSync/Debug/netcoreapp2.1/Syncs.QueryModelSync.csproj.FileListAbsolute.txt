@@ -1,0 +1,11 @@
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\Syncs.QueryModelSync\Debug\netcoreapp2.1\Syncs.QueryModelSync.deps.json
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\Syncs.QueryModelSync\Debug\netcoreapp2.1\Syncs.QueryModelSync.runtimeconfig.json
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\Syncs.QueryModelSync\Debug\netcoreapp2.1\Syncs.QueryModelSync.runtimeconfig.dev.json
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\Syncs.QueryModelSync\Debug\netcoreapp2.1\Syncs.QueryModelSync.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\Syncs.QueryModelSync\Debug\netcoreapp2.1\Syncs.QueryModelSync.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\Syncs.QueryModelSync\Debug\netcoreapp2.1\Syncs.QueryModelSync.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\Syncs.QueryModelSync\Debug\netcoreapp2.1\Syncs.QueryModelSync.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\Syncs.QueryModelSync\Debug\netcoreapp2.1\Syncs.QueryModelSync.AssemblyInfo.cs
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\Syncs.QueryModelSync\Debug\netcoreapp2.1\Syncs.QueryModelSync.csproj.CopyComplete
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\Syncs.QueryModelSync\Debug\netcoreapp2.1\Syncs.QueryModelSync.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\Syncs.QueryModelSync\Debug\netcoreapp2.1\Syncs.QueryModelSync.genruntimeconfig.cache

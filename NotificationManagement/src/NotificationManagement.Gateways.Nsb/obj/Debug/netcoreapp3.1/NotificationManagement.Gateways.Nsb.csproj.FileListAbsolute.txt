@@ -1,0 +1,10 @@
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Gateways.Nsb\bin\Debug\netcoreapp3.1\NotificationManagement.Gateways.Nsb.deps.json
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Gateways.Nsb\bin\Debug\netcoreapp3.1\NotificationManagement.Gateways.Nsb.dll
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Gateways.Nsb\bin\Debug\netcoreapp3.1\NotificationManagement.Gateways.Nsb.pdb
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Gateways.Nsb\obj\Debug\netcoreapp3.1\NotificationManagement.Gateways.Nsb.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Gateways.Nsb\obj\Debug\netcoreapp3.1\NotificationManagement.Gateways.Nsb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Gateways.Nsb\obj\Debug\netcoreapp3.1\NotificationManagement.Gateways.Nsb.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Gateways.Nsb\obj\Debug\netcoreapp3.1\NotificationManagement.Gateways.Nsb.AssemblyInfo.cs
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Gateways.Nsb\obj\Debug\netcoreapp3.1\NotificationManagement.Gateways.Nsb.csproj.CoreCompileInputs.cache
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Gateways.Nsb\obj\Debug\netcoreapp3.1\NotificationManagement.Gateways.Nsb.dll
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Gateways.Nsb\obj\Debug\netcoreapp3.1\NotificationManagement.Gateways.Nsb.pdb

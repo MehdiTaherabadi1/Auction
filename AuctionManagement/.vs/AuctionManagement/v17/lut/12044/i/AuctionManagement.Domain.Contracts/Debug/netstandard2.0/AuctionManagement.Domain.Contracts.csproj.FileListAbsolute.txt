@@ -1,0 +1,9 @@
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Domain.Contracts\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.deps.json
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Domain.Contracts\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain.Contracts\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain.Contracts\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain.Contracts\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain.Contracts\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.AssemblyInfo.cs
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain.Contracts\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.csproj.CopyComplete
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain.Contracts\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain.Contracts\Debug\netstandard2.0\AuctionManagement.Domain.Contracts.csproj.CoreCompileInputs.cache

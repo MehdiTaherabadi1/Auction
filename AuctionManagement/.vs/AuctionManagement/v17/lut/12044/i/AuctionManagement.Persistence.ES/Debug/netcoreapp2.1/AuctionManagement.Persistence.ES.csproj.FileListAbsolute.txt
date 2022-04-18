@@ -1,0 +1,8 @@
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Persistence.ES\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.deps.json
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Persistence.ES\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Persistence.ES\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Persistence.ES\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Persistence.ES\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Persistence.ES\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.AssemblyInfo.cs
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Persistence.ES\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.csproj.CopyComplete
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Persistence.ES\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.dll

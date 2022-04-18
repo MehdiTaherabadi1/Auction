@@ -1,0 +1,14 @@
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Persistence.ES.Tests.Integration\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Persistence.ES.Tests.Integration\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Persistence.ES.Tests.Integration\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Persistence.ES.Tests.Integration\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.deps.json
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Persistence.ES.Tests.Integration\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.runtimeconfig.json
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Persistence.ES.Tests.Integration\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.runtimeconfig.dev.json
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Persistence.ES.Tests.Integration\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Persistence.ES.Tests.Integration\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Persistence.ES.Tests.Integration\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Persistence.ES.Tests.Integration\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Persistence.ES.Tests.Integration\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.AssemblyInfo.cs
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Persistence.ES.Tests.Integration\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.csproj.CopyComplete
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Persistence.ES.Tests.Integration\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Persistence.ES.Tests.Integration\Debug\netcoreapp2.1\AuctionManagement.Persistence.ES.Tests.Integration.genruntimeconfig.cache

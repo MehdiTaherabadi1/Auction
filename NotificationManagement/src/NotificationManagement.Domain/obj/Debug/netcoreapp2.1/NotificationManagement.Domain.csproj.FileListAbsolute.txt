@@ -7,3 +7,13 @@ C:\Courses\Craftmanship - GodOfWar\Session 20 -B\NotificationManagement\src\Noti
 C:\Courses\Craftmanship - GodOfWar\Session 20 -B\NotificationManagement\src\NotificationManagement.Domain\bin\Debug\netcoreapp2.1\NotificationManagement.Domain.pdb
 C:\Courses\Craftmanship - GodOfWar\Session 20 -B\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netcoreapp2.1\NotificationManagement.Domain.dll
 C:\Courses\Craftmanship - GodOfWar\Session 20 -B\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netcoreapp2.1\NotificationManagement.Domain.pdb
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\bin\Debug\netcoreapp2.1\NotificationManagement.Domain.deps.json
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\bin\Debug\netcoreapp2.1\NotificationManagement.Domain.dll
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\bin\Debug\netcoreapp2.1\NotificationManagement.Domain.pdb
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netcoreapp2.1\NotificationManagement.Domain.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netcoreapp2.1\NotificationManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netcoreapp2.1\NotificationManagement.Domain.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netcoreapp2.1\NotificationManagement.Domain.AssemblyInfo.cs
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netcoreapp2.1\NotificationManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netcoreapp2.1\NotificationManagement.Domain.dll
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netcoreapp2.1\NotificationManagement.Domain.pdb

@@ -1,0 +1,8 @@
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.deps.json
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.AssemblyInfo.cs
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.csproj.CopyComplete
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain\Debug\netcoreapp2.1\AuctionManagement.Domain.dll

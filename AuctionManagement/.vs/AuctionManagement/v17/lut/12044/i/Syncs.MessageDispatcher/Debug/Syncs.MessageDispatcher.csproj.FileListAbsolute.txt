@@ -1,0 +1,10 @@
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\src\Syncs.MessageDispatcher\bin\Debug\NServiceBus.Transport.Msmq\CreateQueues.ps1
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\src\Syncs.MessageDispatcher\bin\Debug\NServiceBus.Transport.Msmq\DeleteQueues.ps1
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\src\Syncs.MessageDispatcher\bin\Debug\Syncs.MessageDispatcher.exe.config
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\src\Syncs.MessageDispatcher\bin\Debug\Syncs.MessageDispatcher.exe
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\Syncs.MessageDispatcher\Debug\Syncs.MessageDispatcher.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\Syncs.MessageDispatcher\Debug\Syncs.MessageDispatcher.csproj.SuggestedBindingRedirects.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\Syncs.MessageDispatcher\Debug\Syncs.MessageDispatcher.exe.config
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\Syncs.MessageDispatcher\Debug\Syncs.MessageDispatcher.csproj.CoreCompileInputs.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\Syncs.MessageDispatcher\Debug\Syncs.MessageDispatcher.csproj.CopyComplete
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\Syncs.MessageDispatcher\Debug\Syncs.MessageDispatcher.exe

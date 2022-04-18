@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yGo1gaGe+DGGkDaiJs05vkbN0XuTlmYLNvd0msyOWJenMrWujvF2H/co4BbWKKVPF7qM49+7pp7ZunUgOv7zYA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\AuctionTest\\NotificationManagement\\src\\NotificationManagement.Messages\\NotificationManagement.Messages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

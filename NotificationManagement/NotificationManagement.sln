@@ -1,13 +1,31 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.106
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{726D94FF-6BD8-4735-BC18-E6B769B82F6A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{98D5C271-433A-48DB-8CF1-F146FFEE87B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationManagement.Domain", "src\NotificationManagement.Domain\NotificationManagement.Domain.csproj", "{64158C88-AA39-4CDE-8616-5DE35AAB99B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationManagement.Domain", "src\NotificationManagement.Domain\NotificationManagement.Domain.csproj", "{64158C88-AA39-4CDE-8616-5DE35AAB99B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationManagement.Application.Contracts", "src\NotificationManagement.Application.Contracts\NotificationManagement.Application.Contracts.csproj", "{6E9226A7-E4D7-4DBB-9496-456E6780B03F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gateways", "gateways", "{FCD86D95-F84D-4153-BBA6-1948D8480B01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationManagement.Gateways.RestApi", "src\NotificationManagement.Gateways.RestApi\NotificationManagement.Gateways.RestApi.csproj", "{90B3EF65-884C-43A6-9793-BE689047FC2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationManagement.Gateways.Nsb", "src\NotificationManagement.Gateways.Nsb\NotificationManagement.Gateways.Nsb.csproj", "{2F2D1117-AB72-49A3-BE35-4D8FA593930B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceHost", "src\ServiceHost\ServiceHost.csproj", "{6AF4B343-9A70-48FF-8713-C10A65E07282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationManagement.Application", "src\NotificationManagement.Application\NotificationManagement.Application.csproj", "{F94A98D6-EA07-4024-B0AC-248BC7A002B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{964B2D25-6671-4636-8CA1-6158A811B74B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{55AF6D1C-D223-43A5-80E0-ABE358B2D5B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationManagement.Messages", "src\NotificationManagement.Messages\NotificationManagement.Messages.csproj", "{7DC264B1-25ED-4A48-AF53-17DCA4F1C054}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,12 +37,44 @@ Global
 		{64158C88-AA39-4CDE-8616-5DE35AAB99B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64158C88-AA39-4CDE-8616-5DE35AAB99B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64158C88-AA39-4CDE-8616-5DE35AAB99B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E9226A7-E4D7-4DBB-9496-456E6780B03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9226A7-E4D7-4DBB-9496-456E6780B03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9226A7-E4D7-4DBB-9496-456E6780B03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9226A7-E4D7-4DBB-9496-456E6780B03F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B3EF65-884C-43A6-9793-BE689047FC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B3EF65-884C-43A6-9793-BE689047FC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B3EF65-884C-43A6-9793-BE689047FC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B3EF65-884C-43A6-9793-BE689047FC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2D1117-AB72-49A3-BE35-4D8FA593930B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2D1117-AB72-49A3-BE35-4D8FA593930B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2D1117-AB72-49A3-BE35-4D8FA593930B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2D1117-AB72-49A3-BE35-4D8FA593930B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF4B343-9A70-48FF-8713-C10A65E07282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF4B343-9A70-48FF-8713-C10A65E07282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF4B343-9A70-48FF-8713-C10A65E07282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF4B343-9A70-48FF-8713-C10A65E07282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F94A98D6-EA07-4024-B0AC-248BC7A002B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F94A98D6-EA07-4024-B0AC-248BC7A002B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F94A98D6-EA07-4024-B0AC-248BC7A002B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F94A98D6-EA07-4024-B0AC-248BC7A002B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC264B1-25ED-4A48-AF53-17DCA4F1C054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC264B1-25ED-4A48-AF53-17DCA4F1C054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC264B1-25ED-4A48-AF53-17DCA4F1C054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC264B1-25ED-4A48-AF53-17DCA4F1C054}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{64158C88-AA39-4CDE-8616-5DE35AAB99B6} = {726D94FF-6BD8-4735-BC18-E6B769B82F6A}
+		{64158C88-AA39-4CDE-8616-5DE35AAB99B6} = {55AF6D1C-D223-43A5-80E0-ABE358B2D5B8}
+		{6E9226A7-E4D7-4DBB-9496-456E6780B03F} = {964B2D25-6671-4636-8CA1-6158A811B74B}
+		{FCD86D95-F84D-4153-BBA6-1948D8480B01} = {726D94FF-6BD8-4735-BC18-E6B769B82F6A}
+		{90B3EF65-884C-43A6-9793-BE689047FC2F} = {FCD86D95-F84D-4153-BBA6-1948D8480B01}
+		{2F2D1117-AB72-49A3-BE35-4D8FA593930B} = {FCD86D95-F84D-4153-BBA6-1948D8480B01}
+		{F94A98D6-EA07-4024-B0AC-248BC7A002B0} = {964B2D25-6671-4636-8CA1-6158A811B74B}
+		{964B2D25-6671-4636-8CA1-6158A811B74B} = {726D94FF-6BD8-4735-BC18-E6B769B82F6A}
+		{55AF6D1C-D223-43A5-80E0-ABE358B2D5B8} = {726D94FF-6BD8-4735-BC18-E6B769B82F6A}
+		{7DC264B1-25ED-4A48-AF53-17DCA4F1C054} = {FCD86D95-F84D-4153-BBA6-1948D8480B01}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {633B77EE-B942-4BEE-A385-ADE8BCF5648D}

@@ -1,0 +1,14 @@
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Domain.Tests.Unit\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Domain.Tests.Unit\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Domain.Tests.Unit\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Domain.Tests.Unit\Debug\netcoreapp2.1\AuctionManagement.Domain.Tests.Unit.deps.json
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Domain.Tests.Unit\Debug\netcoreapp2.1\AuctionManagement.Domain.Tests.Unit.runtimeconfig.json
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Domain.Tests.Unit\Debug\netcoreapp2.1\AuctionManagement.Domain.Tests.Unit.runtimeconfig.dev.json
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Domain.Tests.Unit\Debug\netcoreapp2.1\AuctionManagement.Domain.Tests.Unit.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain.Tests.Unit\Debug\netcoreapp2.1\AuctionManagement.Domain.Tests.Unit.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain.Tests.Unit\Debug\netcoreapp2.1\AuctionManagement.Domain.Tests.Unit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain.Tests.Unit\Debug\netcoreapp2.1\AuctionManagement.Domain.Tests.Unit.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain.Tests.Unit\Debug\netcoreapp2.1\AuctionManagement.Domain.Tests.Unit.AssemblyInfo.cs
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain.Tests.Unit\Debug\netcoreapp2.1\AuctionManagement.Domain.Tests.Unit.csproj.CopyComplete
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain.Tests.Unit\Debug\netcoreapp2.1\AuctionManagement.Domain.Tests.Unit.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Domain.Tests.Unit\Debug\netcoreapp2.1\AuctionManagement.Domain.Tests.Unit.genruntimeconfig.cache

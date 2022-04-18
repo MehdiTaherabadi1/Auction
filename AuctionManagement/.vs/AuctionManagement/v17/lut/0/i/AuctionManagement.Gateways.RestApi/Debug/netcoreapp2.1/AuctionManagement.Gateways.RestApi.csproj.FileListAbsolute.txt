@@ -1,0 +1,8 @@
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Gateways.RestApi\Debug\netcoreapp2.1\AuctionManagement.Gateways.RestApi.deps.json
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\b\AuctionManagement.Gateways.RestApi\Debug\netcoreapp2.1\AuctionManagement.Gateways.RestApi.dll
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Gateways.RestApi\Debug\netcoreapp2.1\AuctionManagement.Gateways.RestApi.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Gateways.RestApi\Debug\netcoreapp2.1\AuctionManagement.Gateways.RestApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Gateways.RestApi\Debug\netcoreapp2.1\AuctionManagement.Gateways.RestApi.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Gateways.RestApi\Debug\netcoreapp2.1\AuctionManagement.Gateways.RestApi.AssemblyInfo.cs
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Gateways.RestApi\Debug\netcoreapp2.1\AuctionManagement.Gateways.RestApi.csproj.CopyComplete
+D:\Project\AuctionTest\AuctionManagement\.vs\AuctionManagement\v17\lut\0\i\AuctionManagement.Gateways.RestApi\Debug\netcoreapp2.1\AuctionManagement.Gateways.RestApi.dll
