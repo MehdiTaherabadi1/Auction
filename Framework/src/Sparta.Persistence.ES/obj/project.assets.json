@@ -715,7 +715,7 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "Sparta.Core/1.0.1": {
+      "Sparta.Core/1.0.2": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -729,7 +729,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Sparta.Core": "1.0.1"
+          "Sparta.Core": "1.0.2"
         },
         "compile": {
           "bin/placeholder/Sparta.Domain.dll": {}
@@ -3304,7 +3304,7 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "Sparta.Core/1.0.1": {
+    "Sparta.Core/1.0.2": {
       "type": "project",
       "path": "../Sparta.Core/Sparta.Core.csproj",
       "msbuildProject": "../Sparta.Core/Sparta.Core.csproj"
@@ -3392,7 +3392,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -10,7 +10,7 @@
       "Sparta.Domain/1.0.1": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
-          "Sparta.Core": "1.0.1"
+          "Sparta.Core": "1.0.2"
         },
         "runtime": {
           "Sparta.Domain.dll": {}
@@ -22,7 +22,7 @@
           "Microsoft.NETCore.Platforms": "1.1.0"
         }
       },
-      "Sparta.Core/1.0.1": {
+      "Sparta.Core/1.0.2": {
         "runtime": {
           "Sparta.Core.dll": {}
         }
@@ -49,7 +49,7 @@
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
-    "Sparta.Core/1.0.1": {
+    "Sparta.Core/1.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

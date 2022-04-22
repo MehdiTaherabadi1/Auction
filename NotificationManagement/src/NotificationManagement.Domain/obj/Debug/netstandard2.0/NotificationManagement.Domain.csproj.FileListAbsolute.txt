@@ -1,0 +1,10 @@
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\bin\Debug\netstandard2.0\NotificationManagement.Domain.deps.json
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\bin\Debug\netstandard2.0\NotificationManagement.Domain.dll
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\bin\Debug\netstandard2.0\NotificationManagement.Domain.pdb
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netstandard2.0\NotificationManagement.Domain.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netstandard2.0\NotificationManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netstandard2.0\NotificationManagement.Domain.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netstandard2.0\NotificationManagement.Domain.AssemblyInfo.cs
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netstandard2.0\NotificationManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netstandard2.0\NotificationManagement.Domain.dll
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Domain\obj\Debug\netstandard2.0\NotificationManagement.Domain.pdb

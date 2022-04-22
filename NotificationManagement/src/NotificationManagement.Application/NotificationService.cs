@@ -7,12 +7,11 @@ namespace NotificationManagement.Application
     {
         public void Save(SendPeriodicNotification notification)
         {
-            throw new System.NotImplementedException();
+            
         }
 
         public void Save(SendSchedulesNotification notification)
         {
-            throw new System.NotImplementedException();
         }
     }
 }

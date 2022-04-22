@@ -1,0 +1,5 @@
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application.Contracts\obj\Debug\netstandard2.0\NotificationManagement.Application.Contracts.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application.Contracts\obj\Debug\netstandard2.0\NotificationManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application.Contracts\obj\Debug\netstandard2.0\NotificationManagement.Application.Contracts.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application.Contracts\obj\Debug\netstandard2.0\NotificationManagement.Application.Contracts.AssemblyInfo.cs
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application.Contracts\obj\Debug\netstandard2.0\NotificationManagement.Application.Contracts.csproj.CoreCompileInputs.cache

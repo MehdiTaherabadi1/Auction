@@ -1,8 +1,9 @@
-﻿using System;
+﻿using Sparta.Core.MessageHandling;
+using System;
 
 namespace NotificationManagement.Messages
 {
-    public class PeriodicNotificationMessage
+    public class PeriodicNotificationMessage : IMessage
     {
         public string Receiver { get; private set; }
         public string Text { get; private set; }

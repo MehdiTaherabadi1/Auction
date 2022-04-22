@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Tv69mPZ6INv2IgMTKrE1M3+w187G1/EK4Dedw3M8bT595tffhjSpgul6zRx7OK+vm78OlTlDJcEVtbCWVf+zEA==",
+  "dgSpecHash": "NsAlKXbxBfhasPcTwLJyOLqX14bgJ/3TmMgTHmA09dzLn80TMo7EMcMVxp86/nqlcYpVl5nXpu4FQJo3icxFWA==",
   "success": true,
   "projectFilePath": "D:\\Project\\AuctionTest\\NotificationManagement\\src\\NotificationManagement.Gateways.RestApi\\NotificationManagement.Gateways.RestApi.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,7 @@
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\runtime.native.system\\4.0.0\\runtime.native.system.4.0.0.nupkg.sha512",
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\sparta.core\\1.0.2\\sparta.core.1.0.2.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

@@ -498,6 +498,15 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Sparta.Core/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Sparta.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Sparta.Core.dll": {}
+        }
+      },
       "System.AppContext/4.1.0": {
         "type": "package",
         "dependencies": {
@@ -1047,9 +1056,23 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "NotificationManagement.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "NotificationManagement.Application.Contracts": "1.0.0",
+          "NotificationManagement.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NotificationManagement.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NotificationManagement.Application.dll": {}
+        }
+      },
       "NotificationManagement.Application.Contracts/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "NotificationManagement.Domain": "1.0.0"
         },
@@ -1091,12 +1114,31 @@
       },
       "NotificationManagement.Messages/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "NotificationManagement.Application.Contracts": "1.0.0",
+          "Sparta.Core": "1.0.2"
+        },
         "compile": {
           "bin/placeholder/NotificationManagement.Messages.dll": {}
         },
         "runtime": {
           "bin/placeholder/NotificationManagement.Messages.dll": {}
+        }
+      },
+      "NotificationManagment.Config/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "NotificationManagement.Application": "1.0.0",
+          "NotificationManagement.Domain": "1.0.0",
+          "NotificationManagement.Gateways.RestApi": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NotificationManagment.Config.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NotificationManagment.Config.dll": {}
         }
       }
     }
@@ -1634,6 +1676,17 @@
         "lib/netstandard1.0/_._",
         "runtime.native.system.4.0.0.nupkg.sha512",
         "runtime.native.system.nuspec"
+      ]
+    },
+    "Sparta.Core/1.0.2": {
+      "sha512": "HaPayJwAhIG+LFFIDQhJ7m6bWJ2KRfC63ikF/dfesm/gl+AIM8KPSOgOECcb4SRpt9LDOWCgZYHZjAGdQJTKYQ==",
+      "type": "package",
+      "path": "sparta.core/1.0.2",
+      "files": [
+        ".nupkg.metadata",
+        "lib/netstandard2.0/Sparta.Core.dll",
+        "sparta.core.1.0.2.nupkg.sha512",
+        "sparta.core.nuspec"
       ]
     },
     "System.AppContext/4.1.0": {
@@ -3998,6 +4051,11 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "NotificationManagement.Application/1.0.0": {
+      "type": "project",
+      "path": "../NotificationManagement.Application/NotificationManagement.Application.csproj",
+      "msbuildProject": "../NotificationManagement.Application/NotificationManagement.Application.csproj"
+    },
     "NotificationManagement.Application.Contracts/1.0.0": {
       "type": "project",
       "path": "../NotificationManagement.Application.Contracts/NotificationManagement.Application.Contracts.csproj",
@@ -4017,11 +4075,17 @@
       "type": "project",
       "path": "../NotificationManagement.Messages/NotificationManagement.Messages.csproj",
       "msbuildProject": "../NotificationManagement.Messages/NotificationManagement.Messages.csproj"
+    },
+    "NotificationManagment.Config/1.0.0": {
+      "type": "project",
+      "path": "../../NotificationManagment.Config/NotificationManagment.Config.csproj",
+      "msbuildProject": "../../NotificationManagment.Config/NotificationManagment.Config.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "NotificationManagement.Gateways.RestApi >= 1.0.0"
+      "NotificationManagement.Gateways.RestApi >= 1.0.0",
+      "NotificationManagment.Config >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4057,6 +4121,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "D:\\Project\\AuctionTest\\NotificationManagement\\NotificationManagment.Config\\NotificationManagment.Config.csproj": {
+              "projectPath": "D:\\Project\\AuctionTest\\NotificationManagement\\NotificationManagment.Config\\NotificationManagment.Config.csproj"
+            },
             "D:\\Project\\AuctionTest\\NotificationManagement\\src\\NotificationManagement.Gateways.RestApi\\NotificationManagement.Gateways.RestApi.csproj": {
               "projectPath": "D:\\Project\\AuctionTest\\NotificationManagement\\src\\NotificationManagement.Gateways.RestApi\\NotificationManagement.Gateways.RestApi.csproj"
             }
@@ -4082,12 +4149,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.23, 3.1.23]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4096,7 +4157,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

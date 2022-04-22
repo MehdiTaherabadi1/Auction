@@ -13,4 +13,10 @@
     <SourceRoot Include="C:\Users\MehdiTaherabadi\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)nservicebus.transport.msmq\1.2.0\build\NServiceBus.Transport.Msmq.props" Condition="Exists('$(NuGetPackageRoot)nservicebus.transport.msmq\1.2.0\build\NServiceBus.Transport.Msmq.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgNServiceBus Condition=" '$(PkgNServiceBus)' == '' ">C:\Users\MehdiTaherabadi\.nuget\packages\nservicebus\7.7.2</PkgNServiceBus>
+  </PropertyGroup>
 </Project>

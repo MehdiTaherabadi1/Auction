@@ -24,7 +24,7 @@ namespace NotificationManagement.Gateways.RestApi
             return Ok();
         }
 
-        [Route("/api/[controller]//Scheduled")]
+        [Route("/api/[controller]/Scheduled")]
         public IActionResult Post([FromBody] SchedulesNotificationMessage notification)
         {
             _notificationService.Save(notification.Adapt<SendSchedulesNotification>());

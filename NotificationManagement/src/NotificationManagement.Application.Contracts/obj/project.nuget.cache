@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pa4UGGSPh0RT8aLDeuwd9Mw031vxwKuxfaHTwY7InRgp62PLWf/qLAwccOvfjOnH6jwKIi+hopzV/zJDq5a+jQ==",
+  "dgSpecHash": "WYx3u+VtRnPZM1lr3qG0izCTQD0cxLrq2vI4cAcbHWyZs7+mw+JJ/ZV/NylcOevEcP3ONhzD1H+bGv2Zg65pDw==",
   "success": true,
   "projectFilePath": "D:\\Project\\AuctionTest\\NotificationManagement\\src\\NotificationManagement.Application.Contracts\\NotificationManagement.Application.Contracts.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,6 @@
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",

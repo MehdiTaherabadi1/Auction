@@ -498,6 +498,15 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Sparta.Core/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Sparta.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Sparta.Core.dll": {}
+        }
+      },
       "System.AppContext/4.1.0": {
         "type": "package",
         "dependencies": {
@@ -1049,7 +1058,7 @@
       },
       "NotificationManagement.Application.Contracts/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "NotificationManagement.Domain": "1.0.0"
         },
@@ -1075,7 +1084,11 @@
       },
       "NotificationManagement.Messages/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "NotificationManagement.Application.Contracts": "1.0.0",
+          "Sparta.Core": "1.0.2"
+        },
         "compile": {
           "bin/placeholder/NotificationManagement.Messages.dll": {}
         },
@@ -1618,6 +1631,17 @@
         "lib/netstandard1.0/_._",
         "runtime.native.system.4.0.0.nupkg.sha512",
         "runtime.native.system.nuspec"
+      ]
+    },
+    "Sparta.Core/1.0.2": {
+      "sha512": "HaPayJwAhIG+LFFIDQhJ7m6bWJ2KRfC63ikF/dfesm/gl+AIM8KPSOgOECcb4SRpt9LDOWCgZYHZjAGdQJTKYQ==",
+      "type": "package",
+      "path": "sparta.core/1.0.2",
+      "files": [
+        ".nupkg.metadata",
+        "lib/netstandard2.0/Sparta.Core.dll",
+        "sparta.core.1.0.2.nupkg.sha512",
+        "sparta.core.nuspec"
       ]
     },
     "System.AppContext/4.1.0": {
@@ -4082,7 +4106,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

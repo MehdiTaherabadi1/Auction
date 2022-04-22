@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+T13ZpqmjCe+OlfLWDROwCadf6/Gg7lUrTXqzoQJX9VDG7nwfarVlrE+sWKXZQqL56+OO+ip+KZGMa1MmdyX3Q==",
+  "dgSpecHash": "p1jElsbedToF0fpri4TreMcJOLBMIU03PaXU+VNsL1xode6MeNteoa/jnJOzgmkeo7BaXJN7NzqKxjNMXHQCLA==",
   "success": true,
   "projectFilePath": "D:\\Project\\AuctionTest\\NotificationManagement\\src\\ServiceHost\\ServiceHost.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,7 @@
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\runtime.native.system\\4.0.0\\runtime.native.system.4.0.0.nupkg.sha512",
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\sparta.core\\1.0.2\\sparta.core.1.0.2.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
@@ -78,8 +79,7 @@
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.1\\system.threading.tasks.extensions.4.5.1.nupkg.sha512",
     "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
-    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
-    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+    "C:\\Users\\MehdiTaherabadi\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512"
   ],
   "logs": []
 }

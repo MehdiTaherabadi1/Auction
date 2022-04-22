@@ -19,13 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationManagement.Gate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceHost", "src\ServiceHost\ServiceHost.csproj", "{6AF4B343-9A70-48FF-8713-C10A65E07282}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationManagement.Application", "src\NotificationManagement.Application\NotificationManagement.Application.csproj", "{F94A98D6-EA07-4024-B0AC-248BC7A002B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationManagement.Application", "src\NotificationManagement.Application\NotificationManagement.Application.csproj", "{F94A98D6-EA07-4024-B0AC-248BC7A002B0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{964B2D25-6671-4636-8CA1-6158A811B74B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{55AF6D1C-D223-43A5-80E0-ABE358B2D5B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationManagement.Messages", "src\NotificationManagement.Messages\NotificationManagement.Messages.csproj", "{7DC264B1-25ED-4A48-AF53-17DCA4F1C054}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationManagement.Messages", "src\NotificationManagement.Messages\NotificationManagement.Messages.csproj", "{7DC264B1-25ED-4A48-AF53-17DCA4F1C054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationManagment.Config", "NotificationManagment.Config\NotificationManagment.Config.csproj", "{BE459A90-856F-4ADC-8E49-7B457AD9064B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,10 @@ Global
 		{7DC264B1-25ED-4A48-AF53-17DCA4F1C054}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DC264B1-25ED-4A48-AF53-17DCA4F1C054}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DC264B1-25ED-4A48-AF53-17DCA4F1C054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE459A90-856F-4ADC-8E49-7B457AD9064B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE459A90-856F-4ADC-8E49-7B457AD9064B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE459A90-856F-4ADC-8E49-7B457AD9064B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE459A90-856F-4ADC-8E49-7B457AD9064B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -75,6 +81,7 @@ Global
 		{964B2D25-6671-4636-8CA1-6158A811B74B} = {726D94FF-6BD8-4735-BC18-E6B769B82F6A}
 		{55AF6D1C-D223-43A5-80E0-ABE358B2D5B8} = {726D94FF-6BD8-4735-BC18-E6B769B82F6A}
 		{7DC264B1-25ED-4A48-AF53-17DCA4F1C054} = {FCD86D95-F84D-4153-BBA6-1948D8480B01}
+		{BE459A90-856F-4ADC-8E49-7B457AD9064B} = {726D94FF-6BD8-4735-BC18-E6B769B82F6A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {633B77EE-B942-4BEE-A385-ADE8BCF5648D}

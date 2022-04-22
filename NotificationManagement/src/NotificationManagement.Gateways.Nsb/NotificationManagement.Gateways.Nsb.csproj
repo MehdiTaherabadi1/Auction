@@ -4,4 +4,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="mapster" Version="7.3.0" />
+    <PackageReference Include="nservicebus" Version="7.7.2" />
+    <PackageReference Include="nservicebus.transport.msmq" Version="1.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NotificationManagement.Messages\NotificationManagement.Messages.csproj" />
+  </ItemGroup>
+
 </Project>

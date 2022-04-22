@@ -1,0 +1,15 @@
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application\obj\Debug\netcoreapp3.1\NotificationManagement.Application.csproj.AssemblyReference.cache
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application\obj\Debug\netcoreapp3.1\NotificationManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application\obj\Debug\netcoreapp3.1\NotificationManagement.Application.AssemblyInfoInputs.cache
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application\obj\Debug\netcoreapp3.1\NotificationManagement.Application.AssemblyInfo.cs
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application\obj\Debug\netcoreapp3.1\NotificationManagement.Application.csproj.CoreCompileInputs.cache
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application\bin\Debug\netcoreapp3.1\NotificationManagement.Application.deps.json
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application\bin\Debug\netcoreapp3.1\NotificationManagement.Application.dll
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application\bin\Debug\netcoreapp3.1\NotificationManagement.Application.pdb
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application\bin\Debug\netcoreapp3.1\NotificationManagement.Application.Contracts.dll
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application\bin\Debug\netcoreapp3.1\NotificationManagement.Domain.dll
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application\bin\Debug\netcoreapp3.1\NotificationManagement.Application.Contracts.pdb
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application\bin\Debug\netcoreapp3.1\NotificationManagement.Domain.pdb
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application\obj\Debug\netcoreapp3.1\NotificationManagement.Application.csproj.CopyComplete
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application\obj\Debug\netcoreapp3.1\NotificationManagement.Application.dll
+D:\Project\AuctionTest\NotificationManagement\src\NotificationManagement.Application\obj\Debug\netcoreapp3.1\NotificationManagement.Application.pdb

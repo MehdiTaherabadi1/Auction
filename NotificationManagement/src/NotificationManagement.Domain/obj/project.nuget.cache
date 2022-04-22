@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QApm2ApLUPxw2F5WqQntbGjPUiZNz8Wq3bPUT870Ab8yHuhtOovM1Szc5EOwQqg23WQgymCwNdOOnb1uo3xlqA==",
+  "dgSpecHash": "It8VfR2KRVx6jeV9/OD0haYRCzdwzcpNFID9kdajuwOwaX9bBXZTfP+iutWkQdtlRISDJVaUq/iQx5iVd7g7Hg==",
   "success": true,
   "projectFilePath": "D:\\Project\\AuctionTest\\NotificationManagement\\src\\NotificationManagement.Domain\\NotificationManagement.Domain.csproj",
   "expectedPackageFiles": [

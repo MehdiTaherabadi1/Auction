@@ -1,8 +1,9 @@
-﻿using System;
+﻿using Sparta.Core.MessageHandling;
+using System;
 
 namespace NotificationManagement.Messages
 {
-    public class SchedulesNotificationMessage
+    public class SchedulesNotificationMessage : IMessage
     {
         public string Receiver { get; set; }
         public string Text { get; set; }

@@ -7,7 +7,7 @@
     <description>Package Description</description>
     <dependencies>
       <group targetFramework=".NETStandard2.0">
-        <dependency id="Sparta.Core" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="Sparta.Core" version="1.0.2" exclude="Build,Analyzers" />
       </group>
     </dependencies>
   </metadata>
